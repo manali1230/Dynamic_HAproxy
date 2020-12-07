@@ -1,0 +1,8 @@
+[Proxy]
+192.168.43.227 ansible_user=root ansible_ssh_pass=komal ansible_connection=ssh
+
+[Webserver]
+192.168.43.183 ansible_user=root ansible_ssh_pass=komal ansible_connection=ssh
+192.168.43.165 ansible_user=root ansible_ssh_pass=komal ansible_connection=ssh
+
+
